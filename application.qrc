@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+<!-- STRING FIGHTER: THE WORD WARRIOR -->
+        <file>resources/images/mb1.png</file>
+        <file>resources/images/mb2.png</file>
+
+        <file>resources/images/sf2.png</file>
+
+        <file>resources/images/Splash.png</file>
+	<file>resources/sounds/StringFighter.wav</file>
+	<file>resources/sounds/salute.mp3</file>
+	<file>resources/images/background.png</file>
+        <file>resources/images/s1.png</file>
+        <file>resources/images/s2.png</file>
+        <file>resources/images/s3.png</file>
+        <file>resources/images/Brick.png</file>
+
+        <file>resources/sounds/gong.wav</file>
+        <file>resources/sounds/Slap.wav</file>
+        <file>resources/sounds/Ending.wav</file>
+
+        <file>resources/images/Menu1.png</file>
+
+        <file>resources/images/Lenin1.png</file>
+        <file>resources/images/Lenin2.png</file>
+        <file>resources/images/Star.png</file>
+
+<!-- fonts -->
+        <file>resources/fonts/Fipps-Regular.otf</file>
+<!-- icons -->
+        <file>resources/icons/t.svg</file>
+    </qresource>
+</RCC>
